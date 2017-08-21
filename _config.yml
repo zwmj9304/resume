@@ -5,8 +5,8 @@ baseurl: '/resume' #change it according to your repository name
 
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
-style: styles-2
-#style: styles-3
+#style: styles-2
+style: styles-3
 #style: styles-4
 #style: styles-5
 #style: styles-6
@@ -23,6 +23,7 @@ phone: +1(412)-880-8931
 website: zwmj9304.github.io #do not add http://
 linkedin: wumengjian-zhu-1327b582
 github: zwmj9304
+twitter: '@zwmj9304'
 
 
 # Tracker
