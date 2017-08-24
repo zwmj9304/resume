@@ -14,7 +14,7 @@ style: styles-3
 
 #Profile information
 name: Wumengjian Zhu
-tagline: Software Developer / Designer
+tagline: Software Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
